@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:iitp.ac.in)",
+      "Bash(npm --version)",
+      "WebSearch",
+      "Bash(curl -s -L \"https://iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=93\")",
+      "WebFetch(domain:sites.google.com)",
+      "WebFetch(domain:www.iitp.ac.in)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" http://localhost:5174/)",
+      "Bash(curl -s http://localhost:5174/src/data/profileData.json)",
+      "Bash(rm -f src/lib/accents.js)",
+      "Bash(rmdir src/lib)",
+      "Bash(grep -oE '\\(https?:[^\"]*|/api/[^\"`]*|baseURL[^,]*|process\\\\.env\\\\.[A-Z_]+\\)')",
+      "Bash(curl -s -L https://iitp.ac.in__TRACKED_VAR__)",
+      "Read(//tmp/**)",
+      "Bash(curl -s -L --max-time 20 \"https://iitp.ac.in/api/api/v1/faculty/93\")",
+      "Bash(curl -s -L --max-time 20 \"https://iitp.ac.in/api/api/v1/public/media/45\")",
+      "Bash(curl -s -I -L --max-time 20 \"https://iitp.ac.in/api/api/v1/public/media/45\")",
+      "Bash(curl -s -o /dev/null -w \"img HTTP %{http_code}\\\\n\" \"http://localhost:5174/img/rahul-mishra.jpg\")"
+    ]
+  }
+}

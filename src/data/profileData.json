@@ -1,0 +1,144 @@
+{
+  "identity": {
+    "name": "Dr. Rahul Mishra",
+    "designation": "Assistant Professor & Head, Computer Center",
+    "department": "Department of Computer Science and Engineering",
+    "email": "rahul_mishra@iitp.ac.in",
+    "phone": "06115-233-8989",
+    "photo": "/img/rahul-mishra.jpg",
+    "institution": "Indian Institute of Technology Patna",
+    "location": "Patna, Bihar, India",
+    "tagline": "Building real-time, decentralized intelligent systems — from federated learning to the Internet of Drones.",
+    "avatarInitials": "RM",
+    "links": [
+      { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=Iv8gjG8AAAAJ&hl=en", "icon": "scholar" },
+      { "label": "Personal Site", "url": "https://sites.google.com/view/rahulmishracse/home", "icon": "globe" },
+      { "label": "LinkedIn", "url": "https://in.linkedin.com/in/rahul-mishra-052205146", "icon": "linkedin" },
+      { "label": "IIT Patna", "url": "https://iitp.ac.in/departments/computer-science-engineering/faculty/profile?id=93", "icon": "building" }
+    ]
+  },
+  "metrics": [
+    { "label": "Citations", "value": "1,290+" },
+    { "label": "Research Areas", "value": "6" },
+    { "label": "Selected Pubs", "value": "8" }
+  ],
+  "biography": "Dr. Rahul Mishra currently holds a faculty position in the Department of Computer Science and Engineering at IIT Patna, where he also serves as the Head of the Computer Center. His research focuses on machine learning and deep learning, particularly in system deployment. He has extensively delved into real-world deployment challenges with a specific emphasis on federated learning perspectives, edge computation, and practical drone applications. His doctoral research spanned the broad domain of sensor data analytics and applied artificial intelligence.",
+  "researchInterests": [
+    { "label": "Federated Learning", "accent": "blue" },
+    { "label": "Edge Computation", "accent": "teal" },
+    { "label": "Applied Artificial Intelligence", "accent": "violet" },
+    { "label": "Sensor Data Analytics", "accent": "amber" },
+    { "label": "System Deployment", "accent": "green" },
+    { "label": "Internet of Drones", "accent": "rose" }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Assistant Professor & Head of Computer Center",
+      "institution": "IIT Patna",
+      "duration": "Present"
+    },
+    {
+      "id": 2,
+      "role": "Assistant Professor",
+      "institution": "DA-IICT, Gandhinagar",
+      "duration": "Previous"
+    },
+    {
+      "id": 3,
+      "role": "Research Associate",
+      "institution": "Department of Computation and Data Science, IISc Bangalore",
+      "duration": "Previous"
+    },
+    {
+      "id": 4,
+      "role": "Ph.D. Scholar",
+      "institution": "IIT (BHU) Varanasi",
+      "duration": "Completed"
+    }
+  ],
+  "publications": [
+    {
+      "id": 101,
+      "title": "Towards Understanding the Impact of Participant and its Wearable Devices in Federated Learning",
+      "authors": "Rahul Mishra and H. P. Gupta",
+      "journal": "IEEE Transactions on Mobile Computing",
+      "year": 2025,
+      "type": "Journal"
+    },
+    {
+      "id": 102,
+      "title": "Resource Aware Clustering for Tackling the Heterogeneity of Participants in Federated Learning",
+      "authors": "Rahul Mishra, H. P. Gupta, G. Banga, and S. K. Das",
+      "journal": "IEEE Transactions on Parallel and Distributed Systems",
+      "year": 2024,
+      "type": "Journal"
+    },
+    {
+      "id": 103,
+      "title": "Designing and Training of Lightweight Neural Networks on Edge Devices using Early Halting in Knowledge Distillation",
+      "authors": "Rahul Mishra and H.P. Gupta",
+      "journal": "IEEE Transactions on Mobile Computing",
+      "year": 2024,
+      "type": "Journal"
+    },
+    {
+      "id": 104,
+      "title": "A Model Personalization-based Federated Learning Approach for Heterogeneous Participants with Variability in the Dataset",
+      "authors": "Rahul Mishra and H.P. Gupta",
+      "journal": "ACM Transactions on Sensor Networks",
+      "year": 2024,
+      "type": "Journal"
+    },
+    {
+      "id": 105,
+      "title": "A Federated Learning Approach with Imperfect Labels in LoRa-based Transportation Systems",
+      "authors": "R. Kumar, Rahul Mishra, and H. P. Gupta",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "year": 2024,
+      "type": "Journal"
+    },
+    {
+      "id": 106,
+      "title": "A Federated Learning Approach to Minimize Communication Rounds Using Noise Rectification",
+      "authors": "Rahul Mishra and H. P. Gupta",
+      "journal": "IEEE Wireless Communications and Networking Conference (WCNC), Dubai, UAE",
+      "year": 2024,
+      "type": "Conference"
+    },
+    {
+      "id": 107,
+      "title": "i-Care: A Multi-Modal Data Integration Approach for Activity Monitoring",
+      "authors": "Rahul Mishra and H. P. Gupta",
+      "journal": "ACM BuildSys, Hangzhou, China",
+      "year": 2024,
+      "type": "Conference"
+    },
+    {
+      "id": 108,
+      "title": "Design and Analysis of Algorithms",
+      "authors": "Hari Prabhat Gupta and Rahul Mishra",
+      "journal": "Textbook · Published under AICTE (NEP)",
+      "year": 2024,
+      "type": "Book"
+    }
+  ],
+  "teaching": [
+    "Introduction to Data Science",
+    "Algorithms",
+    "Drone Data Processing",
+    "Data Analytics and Visualization"
+  ],
+  "honors": [
+    {
+      "id": 201,
+      "title": "IEEE ComSoc Student Conference Grant",
+      "detail": "IEEE INFOCOM 2021 & 2022"
+    },
+    {
+      "id": 202,
+      "title": "Media Coverage — Internet of Drones (BIS Standard)",
+      "detail": "The Times of India, Ahmedabad Edition"
+    }
+  ]
+}
